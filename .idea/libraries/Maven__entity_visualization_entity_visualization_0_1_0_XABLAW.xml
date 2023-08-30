@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: entity-visualization:entity-visualization:0.1.0-XABLAW">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/entity-visualization/entity-visualization/0.1.0-XABLAW/entity-visualization-0.1.0-XABLAW.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/entity-visualization/entity-visualization/0.1.0-XABLAW/entity-visualization-0.1.0-XABLAW-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/entity-visualization/entity-visualization/0.1.0-XABLAW/entity-visualization-0.1.0-XABLAW-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
